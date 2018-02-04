@@ -6,10 +6,14 @@
 
 * [Mozilla Function Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function)
 	* I referenced this page regarding function expressions.
+* [Mozilla Function Declaration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function)
+	* I referenced this page regarding function declarations.
 * [w3 Schools JavaScript Functions](https://www.w3schools.com/js/js_functions.asp)
 	* I used this page regarding definitions of terms relating to functions.
 * [w3 Schools If...Else Statements](https://www.w3schools.com/js/js_if_else.asp)
 	* I referenced this page to read more about if...else statements.
+* [w3 Schools Arrays](https://www.w3schools.com/js/js_arrays.asp)
+	* I referenced this page to read more about arrays.
 
 ## Deductions
 I reviewed the list of deductions for this
