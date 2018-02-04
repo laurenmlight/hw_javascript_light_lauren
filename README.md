@@ -1,6 +1,8 @@
 # Name of Assignment
 * Lauren Light
 * 2/4/18
+* [Github Repo link](https://github.com/laurenmlight/hw_javascript_light_lauren/)
+
 
 ## Resources
 
